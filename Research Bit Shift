@@ -1,0 +1,7 @@
+Theo em tìm hiểu được thì em không tìm thấy giá trị tối đa của dịch trái và dịch phải là 5 bit 
+đối với kiểu int và 6 bit đối với kiểu long. Nhưng em tìm được ở tài liệu về Bit Shift Operators 
+của trang Oracle không có nói về quy định tối đa của Bit Shift có nói nó ít được quan tâm cũng như ứng dụng mục đích 
+chủ yếu là đơn giản cho người dùng biết được rằng có tồn tại toán tử Bit Shift.
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op3.html
+
+Và thường thì không có quy định về giá trị tối đa mỗi lần dịch bit, giá trị thường do người dùng đặt theo mục đích sử dụng của họ.
